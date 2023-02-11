@@ -104,7 +104,7 @@ https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
 #EXTINF:-1 tvg-id="TV538 NL" tvg-name="TV538 NL" tvg-language="" tvg-logo="/tv/tv538.png" group-title="Musik",TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3" tvg-logo="/tv/tvm3.png" group-title="Musik",TVM3
-https://edge16.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
+https://edge17.vedge.infomaniak.com/livecast/ik:tvm3/chunklist_w418556252.m3u8
 #EXTINF:-1 tvg-id="XITE HD NL" tvg-name="XITE HD NL" tvg-language="" tvg-logo="/tv/xite.png" group-title="Musik",XITE
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/80s80s_web.png" group-title="Deutschland",80s80s
