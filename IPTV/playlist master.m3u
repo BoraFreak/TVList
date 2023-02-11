@@ -195,8 +195,6 @@ http://stream.89.0rtl.de/90er/mp3-256
 http://stream.89.0rtl.de/2000er/mp3-256
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/890rtl.png" group-title="Deutschland",89.0 RTL 2010er
 http://stream.89.0rtl.de/2010er/mp3-256
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/890rtl.png" group-title="Deutschland",89.0 RTL Deutsch House
-http://stream.89.0rtl.de/deutschhouse/mp3-256
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/890rtl.png" group-title="Deutschland",89.0 RTL In the Mix
 http://stream.89.0rtl.de/mix/mp3-256
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/890rtl.png" group-title="Deutschland",89.0 RTL Most wanted
@@ -348,17 +346,11 @@ http://31.192.216.7:8000/rmf_maxxx
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/rmfparty.png" group-title="Radio-PL",RMF Party
 http://31.192.216.8:8000/rmf_party
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/rmi.png" group-title="Radio-PL",RMI Euro Disco
-https://ruby.torontocast.com:1565/stream#.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/rmi.png" group-title="Radio-PL",RMI Gold Music
-https://ruby.torontocast.com:1635/stream#.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/rmi.png" group-title="Radio-PL",RMI In the Mix
-https://ruby.torontocast.com:1365/stream#.mp3
+https://fred.torontocast.com:2350/stream
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/rmi.png" group-title="Radio-PL",RMI Italo Disco Classic
-https://ruby.torontocast.com:1385/stream#.mp3
+https://fred.torontocast.com:2325/stream
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/rmi.png" group-title="Radio-PL",RMI Italo Disco New Generation
-https://ruby.torontocast.com:1525/stream#.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/rmi.png" group-title="Radio-PL",RMI Synth Space Music
-https://ruby.torontocast.com:1615/stream#.mp3
+https://fred.torontocast.com:2335/stream
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/sunshinelive.png" group-title="Deutschland",sunshine live
 http://stream.sunshine-live.de/live/mp3-192
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/sunshinelive.png" group-title="Deutschland",sunshine live 80er
