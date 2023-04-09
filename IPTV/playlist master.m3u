@@ -94,7 +94,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="/tv/schlagerdeluxe.png" group-title="Musik",DELUXE SCHLAGER
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-id="Deutsches Musik Fernsehen DE" tvg-name="Deutsches Musik Fernsehen DE" tvg-language="" tvg-logo="/tv/deutschesmusikfernsehen.png" group-title="Musik",Deutsches Musik Fernsehen
-https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="/tv/kronehittv.png" group-title="Musik",Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="/tv/m2otv.png" group-title="Musik",m2o Tv
@@ -112,7 +112,7 @@ https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
 #EXTINF:-1 tvg-id="TV538 NL" tvg-name="TV538 NL" tvg-language="" tvg-logo="/tv/tv538.png" group-title="Musik",TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3" tvg-logo="/tv/tvm3.png" group-title="Musik",TVM3
-https://edge13.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
+https://edge16.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
 #EXTINF:-1 tvg-id="XITE HD NL" tvg-name="XITE HD NL" tvg-language="" tvg-logo="/tv/xite.png" group-title="Musik",XITE
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/80s80s_web.png" group-title="Deutschland",80s80s
