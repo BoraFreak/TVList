@@ -9,7 +9,7 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="BR Fernsehen Nord DE" tvg-language="" tvg-logo="/tv/brHD.png" group-title="Regional",BR Nord HD
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="BR Fernsehen Sud DE" tvg-name="BR Fernsehen Sud DE" tvg-language="" tvg-logo="/tv/brHD.png" group-title="Regional",BR Süd HD
+#EXTINF:-1 tvg-id="BR Fernsehen Sud DE" tvg-name="BR Fernsehen Sud DE" tvg-language="" tvg-logo="/tv/brHD.png" group-title="Regional",BR SÃ¼d HD
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="hr-fernsehen DE" tvg-name="hr-fernsehen DE" tvg-language="" tvg-logo="/tv/hrHD.png" group-title="Regional",hr-fernsehen
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
@@ -17,7 +17,7 @@ https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-id="MDR S-Anhalt DE" tvg-name="MDR S-Anhalt DE" tvg-language="" tvg-logo="/tv/mdrHD.png" group-title="Regional",MDR Sachsen Anhalt HD
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
-#EXTINF:-1 tvg-id="MDR Thuringen DE" tvg-name="MDR Thuringen DE" tvg-language="" tvg-logo="/tv/mdrHD.png" group-title="Regional",MDR Thüringen HD
+#EXTINF:-1 tvg-id="MDR Thuringen DE" tvg-name="MDR Thuringen DE" tvg-language="" tvg-logo="/tv/mdrHD.png" group-title="Regional",MDR ThÃ¼ringen HD
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 #EXTINF:-1 tvg-id="NDR FS NDS DE" tvg-name="NDR FS NDS DE" tvg-language="" tvg-logo="/tv/ndrHD.png" group-title="Regional",NDR Niedersachsen HD
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
@@ -35,7 +35,7 @@ https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 #EXTINF:-1 tvg-id="SR Fernsehen DE" tvg-name="SR Fernsehen DE" tvg-language="" tvg-logo="/tv/srHD.png" group-title="Regional",SR Fernsehen HD
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-id="SWR Fernsehen BW DE" tvg-name="SWR Fernsehen BW DE" tvg-language="" tvg-logo="/tv/swrHD.png" group-title="Regional",SWR Baden-Württemberg HD
+#EXTINF:-1 tvg-id="SWR Fernsehen BW DE" tvg-name="SWR Fernsehen BW DE" tvg-language="" tvg-logo="/tv/swrHD.png" group-title="Regional",SWR Baden-WÃ¼rttemberg HD
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:-1 tvg-id="SWR Fernsehen RP DE" tvg-name="SWR Fernsehen RP DE" tvg-language="" tvg-logo="/tv/swrHD.png" group-title="Regional",SWR Rheinland-Pfalz HD
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
@@ -65,22 +65,26 @@ https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="/tv/BildTV.png" group-title="Nachrichten",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="/tv/DerAktionärTV.png" group-title="Nachrichten",Der Aktionär TV
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-language="" tvg-logo="/tv/AutoBildTV.png" group-title="Sport",Auto Bild TV
+https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="/tv/DerAktionÃ¤rTV.png" group-title="Nachrichten",Der AktionÃ¤r TV
 https://live2.telvi.de/hls/aktionaertv.m3u8
 #EXTINF:-1 tvg-id="Bibel TV HD DE" tvg-name="Bibel TV HD DE" tvg-language="" tvg-logo="/tv/bibeltv.png" group-title="Sonstiges" ,bibel.TV
 https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="/tv/healthtv.png" group-title="Sonstiges" ,health.tv
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ServusTV DE" tvg-name="ServusTV DE" tvg-language="" tvg-logo="/tv/servustvHD.png" group-title="Spartenprogramm",ServusTV HD
 https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master.m3u8
 #EXTINF:-1 tvg-id="KiKa DE" tvg-name="KiKa DE" tvg-language="" tvg-logo="/tv/kikaHD.png" group-title="Kinder / Jugend",KiKa HD
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="Nick DE" tvg-name="Nick DE" tvg-language="" tvg-logo="/tv/nickelodeon.png" group-title="Kinder / Jugend",Nickelodeon
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="/tv/suedthueringer_regionalfernsehen.png" group-title="Regional",Südthüringer Regionalfernsehen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="/tv/suedthueringer_regionalfernsehen.png" group-title="Regional",SÃ¼dthÃ¼ringer Regionalfernsehen
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="/tv/rennsteigtv.png" group-title="Regional",Rennsteig.tv
 http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-language="" tvg-logo="/tv/4funtv.png" group-title="Musik",4 FunTV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-language="" tvg-logo="/tv/4music.png" group-title="Musik",4Music
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-id="Deluxe Music DE" tvg-name="Deluxe Music DE" tvg-language="" tvg-logo="/tv/deluxemusic.png" group-title="Musik",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="/tv/deluxemusic_dance.png" group-title="Musik",DELUXE MUSIC DANCE
@@ -115,7 +119,7 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 https://edge16.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
 #EXTINF:-1 tvg-id="XITE HD NL" tvg-name="XITE HD NL" tvg-language="" tvg-logo="/tv/xite.png" group-title="Musik",XITE
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/80s80s_web.png" group-title="Deutschland",80s80s
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/80s80s_web.png" group-title="Deutschland",80s80s Web
 http://streams.80s80s.de/web/mp3-192
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/80s80s_breakdance.png" group-title="Deutschland",80s80s Breakdance
 http://streams.80s80s.de/breakdance/mp3-192
@@ -159,6 +163,8 @@ http://streams.80s80s.de/wave/mp3-192
 http://streams.90s90s.de/main/mp3-192
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/90s90s_boygroups.png" group-title="Deutschland",90s90s Boygroup
 http://streams.90s90s.de/boygroup/mp3-192
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/90s90s_dab.png" group-title="Deutschland",90s90s DAB
+http://streams.90s90s.de/dab-national/mp3-192
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/90s90s_dance.png" group-title="Deutschland",90s90s Dance
 http://streams.90s90s.de/eurodance/mp3-192
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/90s90s_dance-radio-sax.png" group-title="Deutschland",90s90s DANCE RADIO SAX
@@ -283,20 +289,40 @@ http://mp3.ffh.de/ffhchannels/hqsummerfeeling.mp3
 http://mp3.ffh.de/ffhchannels/hqtop40.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/hitradioffh_workout.png" group-title="Deutschland",FFH Workout
 http://mp3.ffh.de/ffhchannels/hqworkout.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm 1st-house
+http://stream.laut.fm/1st-house
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm 80er
+http://stream.laut.fm/80er
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm 90er
+http://stream.laut.fm/90er
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Club 93
 http://stream.laut.fm/club93
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Deep House Sounds
 http://stream.laut.fm/deep-house-sounds
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm DJs 4 Events Radio
+http://stream.laut.fm/djs4events-radio
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Eurodance
 http://stream.laut.fm/eurodance
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Eurodisco
+http://stream.laut.fm/eurodisco
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Euro Radio
+http://stream.laut.fm/euroradio
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Fantasydancebeatz
 http://stream.laut.fm/fantasydancebeatz
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Geburtstagswelle
+http://stream.laut.fm/geburtstagswelle
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Happy 90s
 http://stream.laut.fm/happy90s
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Hauptstadtzwerge
 http://stream.laut.fm/hauptstadtzwerge
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Hits 80s
+http://stream.laut.fm/hits_80s
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm House Nation
+http://stream.laut.fm/house-nation
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Htd Radio
 http://stream.laut.fm/htd-radio
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Italo Disco
+http://stream.laut.fm/italo-disco
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Italo Scene
 http://stream.laut.fm/italoscene
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Just 80s Maximal
@@ -311,19 +337,29 @@ http://stream.laut.fm/karneval
 http://stream.laut.fm/malle-fm
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Mix Italo
 http://stream.laut.fm/mixitalo
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm NdW
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm NDW
 http://stream.laut.fm/ndw
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Oldies
+http://stream.laut.fm/oldies
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Ostrock
 http://stream.laut.fm/ostrock
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Party Dance radio
+http://stream.laut.fm/party-dance-radio
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Partyfm
 http://stream.laut.fm/partyfm
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Partyhits
+http://stream.laut.fm/partyhits
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Partyhouse
 http://stream.laut.fm/partyhouse
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Partysoundhits
+http://stream.laut.fm/partysoundhits
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Retro Radio
 http://stream.laut.fm/retro-radio
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Technofmsound
 http://stream.laut.fm/technofmsound
-#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/rautemusik.png" group-title="Deutschland",Rautemusik
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/laut-fm.png" group-title="Deutschland",Laut.fm Vinyl XL
+http://stream.laut.fm/vinyl-xl
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/rautemusik.png" group-title="Deutschland",Rautemusik Main
 http://main-high.rautemusik.fm
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/raute90s.png" group-title="Deutschland",Rautemusik 90s
 http://90s-high.rautemusik.fm
@@ -382,11 +418,11 @@ http://31.192.216.7:8000/rmf_maxxx
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/rmfparty.png" group-title="Radio-PL",RMF Party
 http://31.192.216.8:8000/rmf_party
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/RMI-Classic.png" group-title="Radio-PL",RMI Italo Disco Classic
-https://fred.torontocast.com:2325/stream
+https://cast1.torontocast.com:1165/stream
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/RMI-New.png" group-title="Radio-PL",RMI Italo Disco New Generation
-https://fred.torontocast.com:2335/stream
+https://cast1.torontocast.com:1315/stream
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/RMI-Disco.png" group-title="Radio-PL",RMI Italo Euro Disco
-https://fred.torontocast.com:2350/stream
+https://cast1.torontocast.com:1335/stream
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/sunshinelive.png" group-title="Deutschland",sunshine live
 http://stream.sunshine-live.de/live/mp3-192
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" tvg-logo="/radio/sunshinelive.png" group-title="Deutschland",sunshine live 80er
